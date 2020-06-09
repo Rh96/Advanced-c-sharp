@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SEDC.Adv.CSharp.Homework.Class03.Logic/1.0.0": {
+        "runtime": {
+          "SEDC.Adv.CSharp.Homework.Class03.Logic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SEDC.Adv.CSharp.Homework.Class03.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

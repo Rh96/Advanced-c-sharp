@@ -1,0 +1,8 @@
+C:\Users\Rade\Desktop\ADVANCED-CSHARP\Advanced-c-sharp\SEDC.Adv.CSharp.Homework.Class03\SEDC.Adv.CSharp.Homework.Class03.Logic\bin\Debug\netcoreapp3.1\SEDC.Adv.CSharp.Homework.Class03.Logic.deps.json
+C:\Users\Rade\Desktop\ADVANCED-CSHARP\Advanced-c-sharp\SEDC.Adv.CSharp.Homework.Class03\SEDC.Adv.CSharp.Homework.Class03.Logic\bin\Debug\netcoreapp3.1\SEDC.Adv.CSharp.Homework.Class03.Logic.dll
+C:\Users\Rade\Desktop\ADVANCED-CSHARP\Advanced-c-sharp\SEDC.Adv.CSharp.Homework.Class03\SEDC.Adv.CSharp.Homework.Class03.Logic\bin\Debug\netcoreapp3.1\SEDC.Adv.CSharp.Homework.Class03.Logic.pdb
+C:\Users\Rade\Desktop\ADVANCED-CSHARP\Advanced-c-sharp\SEDC.Adv.CSharp.Homework.Class03\SEDC.Adv.CSharp.Homework.Class03.Logic\obj\Debug\netcoreapp3.1\SEDC.Adv.CSharp.Homework.Class03.Logic.csprojAssemblyReference.cache
+C:\Users\Rade\Desktop\ADVANCED-CSHARP\Advanced-c-sharp\SEDC.Adv.CSharp.Homework.Class03\SEDC.Adv.CSharp.Homework.Class03.Logic\obj\Debug\netcoreapp3.1\SEDC.Adv.CSharp.Homework.Class03.Logic.AssemblyInfoInputs.cache
+C:\Users\Rade\Desktop\ADVANCED-CSHARP\Advanced-c-sharp\SEDC.Adv.CSharp.Homework.Class03\SEDC.Adv.CSharp.Homework.Class03.Logic\obj\Debug\netcoreapp3.1\SEDC.Adv.CSharp.Homework.Class03.Logic.AssemblyInfo.cs
+C:\Users\Rade\Desktop\ADVANCED-CSHARP\Advanced-c-sharp\SEDC.Adv.CSharp.Homework.Class03\SEDC.Adv.CSharp.Homework.Class03.Logic\obj\Debug\netcoreapp3.1\SEDC.Adv.CSharp.Homework.Class03.Logic.dll
+C:\Users\Rade\Desktop\ADVANCED-CSHARP\Advanced-c-sharp\SEDC.Adv.CSharp.Homework.Class03\SEDC.Adv.CSharp.Homework.Class03.Logic\obj\Debug\netcoreapp3.1\SEDC.Adv.CSharp.Homework.Class03.Logic.pdb
