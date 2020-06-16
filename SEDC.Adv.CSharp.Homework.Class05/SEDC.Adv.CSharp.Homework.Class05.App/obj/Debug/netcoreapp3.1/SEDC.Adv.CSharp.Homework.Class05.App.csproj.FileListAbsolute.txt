@@ -1,0 +1,11 @@
+C:\Users\Rade\Desktop\ADVANCED-CSHARP\Advanced-c-sharp\SEDC.Adv.CSharp.Homework.Class05\SEDC.Adv.CSharp.Homework.Class05.App\bin\Debug\netcoreapp3.1\SEDC.Adv.CSharp.Homework.Class05.App.exe
+C:\Users\Rade\Desktop\ADVANCED-CSHARP\Advanced-c-sharp\SEDC.Adv.CSharp.Homework.Class05\SEDC.Adv.CSharp.Homework.Class05.App\bin\Debug\netcoreapp3.1\SEDC.Adv.CSharp.Homework.Class05.App.deps.json
+C:\Users\Rade\Desktop\ADVANCED-CSHARP\Advanced-c-sharp\SEDC.Adv.CSharp.Homework.Class05\SEDC.Adv.CSharp.Homework.Class05.App\bin\Debug\netcoreapp3.1\SEDC.Adv.CSharp.Homework.Class05.App.runtimeconfig.json
+C:\Users\Rade\Desktop\ADVANCED-CSHARP\Advanced-c-sharp\SEDC.Adv.CSharp.Homework.Class05\SEDC.Adv.CSharp.Homework.Class05.App\bin\Debug\netcoreapp3.1\SEDC.Adv.CSharp.Homework.Class05.App.runtimeconfig.dev.json
+C:\Users\Rade\Desktop\ADVANCED-CSHARP\Advanced-c-sharp\SEDC.Adv.CSharp.Homework.Class05\SEDC.Adv.CSharp.Homework.Class05.App\bin\Debug\netcoreapp3.1\SEDC.Adv.CSharp.Homework.Class05.App.dll
+C:\Users\Rade\Desktop\ADVANCED-CSHARP\Advanced-c-sharp\SEDC.Adv.CSharp.Homework.Class05\SEDC.Adv.CSharp.Homework.Class05.App\bin\Debug\netcoreapp3.1\SEDC.Adv.CSharp.Homework.Class05.App.pdb
+C:\Users\Rade\Desktop\ADVANCED-CSHARP\Advanced-c-sharp\SEDC.Adv.CSharp.Homework.Class05\SEDC.Adv.CSharp.Homework.Class05.App\obj\Debug\netcoreapp3.1\SEDC.Adv.CSharp.Homework.Class05.App.csprojAssemblyReference.cache
+C:\Users\Rade\Desktop\ADVANCED-CSHARP\Advanced-c-sharp\SEDC.Adv.CSharp.Homework.Class05\SEDC.Adv.CSharp.Homework.Class05.App\obj\Debug\netcoreapp3.1\SEDC.Adv.CSharp.Homework.Class05.App.AssemblyInfoInputs.cache
+C:\Users\Rade\Desktop\ADVANCED-CSHARP\Advanced-c-sharp\SEDC.Adv.CSharp.Homework.Class05\SEDC.Adv.CSharp.Homework.Class05.App\obj\Debug\netcoreapp3.1\SEDC.Adv.CSharp.Homework.Class05.App.AssemblyInfo.cs
+C:\Users\Rade\Desktop\ADVANCED-CSHARP\Advanced-c-sharp\SEDC.Adv.CSharp.Homework.Class05\SEDC.Adv.CSharp.Homework.Class05.App\obj\Debug\netcoreapp3.1\SEDC.Adv.CSharp.Homework.Class05.App.dll
+C:\Users\Rade\Desktop\ADVANCED-CSHARP\Advanced-c-sharp\SEDC.Adv.CSharp.Homework.Class05\SEDC.Adv.CSharp.Homework.Class05.App\obj\Debug\netcoreapp3.1\SEDC.Adv.CSharp.Homework.Class05.App.pdb
