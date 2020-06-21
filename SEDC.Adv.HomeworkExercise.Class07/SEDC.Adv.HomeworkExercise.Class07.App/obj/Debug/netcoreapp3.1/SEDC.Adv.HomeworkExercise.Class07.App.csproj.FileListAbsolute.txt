@@ -1,0 +1,14 @@
+C:\Users\Rade\Desktop\ADVANCED-CSHARP\Advanced-c-sharp\SEDC.Adv.HomeworkExercise.Class07\SEDC.Adv.HomeworkExercise.Class07.App\bin\Debug\netcoreapp3.1\SEDC.Adv.HomeworkExercise.Class07.App.exe
+C:\Users\Rade\Desktop\ADVANCED-CSHARP\Advanced-c-sharp\SEDC.Adv.HomeworkExercise.Class07\SEDC.Adv.HomeworkExercise.Class07.App\bin\Debug\netcoreapp3.1\SEDC.Adv.HomeworkExercise.Class07.App.deps.json
+C:\Users\Rade\Desktop\ADVANCED-CSHARP\Advanced-c-sharp\SEDC.Adv.HomeworkExercise.Class07\SEDC.Adv.HomeworkExercise.Class07.App\bin\Debug\netcoreapp3.1\SEDC.Adv.HomeworkExercise.Class07.App.runtimeconfig.json
+C:\Users\Rade\Desktop\ADVANCED-CSHARP\Advanced-c-sharp\SEDC.Adv.HomeworkExercise.Class07\SEDC.Adv.HomeworkExercise.Class07.App\bin\Debug\netcoreapp3.1\SEDC.Adv.HomeworkExercise.Class07.App.runtimeconfig.dev.json
+C:\Users\Rade\Desktop\ADVANCED-CSHARP\Advanced-c-sharp\SEDC.Adv.HomeworkExercise.Class07\SEDC.Adv.HomeworkExercise.Class07.App\bin\Debug\netcoreapp3.1\SEDC.Adv.HomeworkExercise.Class07.App.dll
+C:\Users\Rade\Desktop\ADVANCED-CSHARP\Advanced-c-sharp\SEDC.Adv.HomeworkExercise.Class07\SEDC.Adv.HomeworkExercise.Class07.App\bin\Debug\netcoreapp3.1\SEDC.Adv.HomeworkExercise.Class07.App.pdb
+C:\Users\Rade\Desktop\ADVANCED-CSHARP\Advanced-c-sharp\SEDC.Adv.HomeworkExercise.Class07\SEDC.Adv.HomeworkExercise.Class07.App\bin\Debug\netcoreapp3.1\SEDC.Adv.HomeworkExercise.Class07.Logic.dll
+C:\Users\Rade\Desktop\ADVANCED-CSHARP\Advanced-c-sharp\SEDC.Adv.HomeworkExercise.Class07\SEDC.Adv.HomeworkExercise.Class07.App\bin\Debug\netcoreapp3.1\SEDC.Adv.HomeworkExercise.Class07.Logic.pdb
+C:\Users\Rade\Desktop\ADVANCED-CSHARP\Advanced-c-sharp\SEDC.Adv.HomeworkExercise.Class07\SEDC.Adv.HomeworkExercise.Class07.App\obj\Debug\netcoreapp3.1\SEDC.Adv.HomeworkExercise.Class07.App.csprojAssemblyReference.cache
+C:\Users\Rade\Desktop\ADVANCED-CSHARP\Advanced-c-sharp\SEDC.Adv.HomeworkExercise.Class07\SEDC.Adv.HomeworkExercise.Class07.App\obj\Debug\netcoreapp3.1\SEDC.Adv.HomeworkExercise.Class07.App.AssemblyInfoInputs.cache
+C:\Users\Rade\Desktop\ADVANCED-CSHARP\Advanced-c-sharp\SEDC.Adv.HomeworkExercise.Class07\SEDC.Adv.HomeworkExercise.Class07.App\obj\Debug\netcoreapp3.1\SEDC.Adv.HomeworkExercise.Class07.App.AssemblyInfo.cs
+C:\Users\Rade\Desktop\ADVANCED-CSHARP\Advanced-c-sharp\SEDC.Adv.HomeworkExercise.Class07\SEDC.Adv.HomeworkExercise.Class07.App\obj\Debug\netcoreapp3.1\SEDC.Adv.HomeworkExercise.Class07.App.csproj.CopyComplete
+C:\Users\Rade\Desktop\ADVANCED-CSHARP\Advanced-c-sharp\SEDC.Adv.HomeworkExercise.Class07\SEDC.Adv.HomeworkExercise.Class07.App\obj\Debug\netcoreapp3.1\SEDC.Adv.HomeworkExercise.Class07.App.dll
+C:\Users\Rade\Desktop\ADVANCED-CSHARP\Advanced-c-sharp\SEDC.Adv.HomeworkExercise.Class07\SEDC.Adv.HomeworkExercise.Class07.App\obj\Debug\netcoreapp3.1\SEDC.Adv.HomeworkExercise.Class07.App.pdb
