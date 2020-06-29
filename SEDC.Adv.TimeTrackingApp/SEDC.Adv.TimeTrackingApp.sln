@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.Adv.TimeTrackingApp.Application", "SEDC.Adv.TimeTrackingApp.Application\SEDC.Adv.TimeTrackingApp.Application.csproj", "{00166AF6-938D-4317-BD7C-319104EC5A38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.Adv.TimeTrackingApp.Domain", "SEDC.Adv.TimeTrackingApp.Domain\SEDC.Adv.TimeTrackingApp.Domain.csproj", "{C45445EB-13F1-4CE5-B0EE-23AF7C42F1E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.Adv.TimeTrackingApp.Services", "SEDC.Adv.TimeTrackingApp.Services\SEDC.Adv.TimeTrackingApp.Services.csproj", "{1A160641-E075-47D8-81EA-07B31723CAE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00166AF6-938D-4317-BD7C-319104EC5A38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00166AF6-938D-4317-BD7C-319104EC5A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00166AF6-938D-4317-BD7C-319104EC5A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00166AF6-938D-4317-BD7C-319104EC5A38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C45445EB-13F1-4CE5-B0EE-23AF7C42F1E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C45445EB-13F1-4CE5-B0EE-23AF7C42F1E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C45445EB-13F1-4CE5-B0EE-23AF7C42F1E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C45445EB-13F1-4CE5-B0EE-23AF7C42F1E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A160641-E075-47D8-81EA-07B31723CAE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A160641-E075-47D8-81EA-07B31723CAE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A160641-E075-47D8-81EA-07B31723CAE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A160641-E075-47D8-81EA-07B31723CAE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47C76F92-7D29-4C5B-B571-D7CC62D25D89}
+	EndGlobalSection
+EndGlobal
