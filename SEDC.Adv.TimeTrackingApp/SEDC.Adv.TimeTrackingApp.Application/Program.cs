@@ -8,7 +8,6 @@ namespace SEDC.Adv.TimeTrackingApp.Application
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world!");
             Console.ReadLine();
         }
     }
