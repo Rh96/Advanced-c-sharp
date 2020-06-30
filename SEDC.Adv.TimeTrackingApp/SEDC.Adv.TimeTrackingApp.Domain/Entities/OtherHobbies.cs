@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Text;
+using System.Threading;
 
 namespace SEDC.Adv.TimeTrackingApp.Domain.Entities
 {
@@ -12,5 +14,7 @@ namespace SEDC.Adv.TimeTrackingApp.Domain.Entities
         {
             Console.WriteLine($"Name of hobby: {NameOfHobby}");
         }
+
+        Stopwatch stopwatch = new Stopwatch();
     }
 }

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.Adv.CSharp.Homework.Class10.Exercise", "SEDC.Adv.CSharp.Homework.Class10.Exercise\SEDC.Adv.CSharp.Homework.Class10.Exercise.csproj", "{49FF0C81-2B47-4CC0-9977-A803EB287B63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49FF0C81-2B47-4CC0-9977-A803EB287B63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49FF0C81-2B47-4CC0-9977-A803EB287B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49FF0C81-2B47-4CC0-9977-A803EB287B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49FF0C81-2B47-4CC0-9977-A803EB287B63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFB1F6AC-0142-4AED-99F0-5D0352E38E06}
+	EndGlobalSection
+EndGlobal
